@@ -1,2 +1,3 @@
 FreeGoTV channel logos
-WDIV4.bmp
+WDIV4.png
+NASCAR-2.png
